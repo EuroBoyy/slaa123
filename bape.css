@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
+#kkkj {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 2px 2px black;
+    color: blanchedalmond;
+}
+#ppp {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 2px 2px black;
+    color: goldenrod;
+}
+#container {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 2px 2px black;
+    color: yellow;
+}
+
+#HD1 {
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main {
+    background-color: white;
+    display: block;
+}
+
+footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#leody1 {
+    border: 10px solid brown;
+    background-color: brown;
+    padding: 10px;
+
+}
+
+#leody2 {
+    border: 10px solid brown;
+    background-color: brown;
+    padding: 10px;
+
+}
+
+#leody3, #leody4 {
+    border: 10px solid brown;
+    background-color: brown;
+    padding: 10px;
+
+}
+#sex1, #sex2, #sex3, #sex4 {
+    border: 5px solid gold;
+    box-shadow: 8px 5px 5px black;
+    width: 250px;
+
+}
+
+nav {
+    padding: 10px;
+    background-color: brown;
+}
+
+#l12:hover {
+    background-color: red;
+    color: white;
+}
+
+#l13:hover {
+    background-color: red;
+    color: white;
+}
+
+#l14:hover {
+    background-color: red;
+    color: white;
+}
+
+
+
+nav ul a {
+    color: #000000;
+}

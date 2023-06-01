@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#produtos00 {
+    display: flex;
+}
+
+#produtos11 {
+    display: flex;
+}
+
+#homeimg1, #homeimg2, #homeimg3, #homeimg4, #homeimg5, #homeimg6 {
+    border: 5px solid gold;
+    box-shadow: 8px 5px 5px black;
+    width: 300px;
+}
+
+#ppp {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 2px 2px black;
+    color: goldenrod;
+}
+
+#HD1 {
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav {
+    padding: 10px;
+    background-color: brown;
+}
+
+#l12:hover {
+    background-color: red;
+    color: white;
+}
+
+#l13:hover {
+    background-color: red;
+    color: white;
+}
+
+#l14:hover {
+    background-color: red;
+    color: white;
+}
+
+nav ul a {
+    color: #000000;
+}
+#produtos00, #produtos11 {
+    background-color: brown;
+}

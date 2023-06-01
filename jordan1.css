@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#inverno-collection {
+    display: flex;
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 2px 2px black;
+    color: yellow;
+}
+
+#jd1, #jd2, #jd3, #jd4 {
+    border: 5px solid gold;
+    box-shadow: 8px 5px 5px black;
+    width: 250px;
+
+}
+
+#produto11, #produto12, #produto13, #produto14 {
+    background-color: brown;
+    padding: 10px;
+}
+
+footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main {
+    background-color: white;
+    display: block;
+}
+#HD1 {
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ppp {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 2px 2px black;
+    color: goldenrod; 
+}
+#collection01 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 2px 2px black;
+    color: blanchedalmond;
+}
+nav {
+    padding: 10px;
+    background-color: brown;
+}
+#l15:hover {
+    background-color: red;
+    color: white;
+}
+
+#l16:hover {
+    background-color: red;
+    color: white;
+}
+
+#l17:hover {
+    background-color: red;
+    color: white;
+}
+
+nav ul a {
+    color: #000000;
+}
